@@ -12,6 +12,7 @@ specify the required variables and run the command `terraform init`.
 ```hcl
 module "twingate_service_account" {
   source  = "gitlab.com/terraform-child-modules-48151/terraform-twingate-service-account/local"
+  <!-- renovate: datasource=gitlab-tags depName=terraform-child-modules-48151/terraform-twingate-service_account extractVersion=^v(?<version>.*)$ -->
   version = "1.0.0"
 
   name = "example-service_account"
