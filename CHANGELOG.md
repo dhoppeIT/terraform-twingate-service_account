@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0](https://gitlab.com/terraform-child-modules-48151/terraform-twingate-service_account/compare/v1.1.0...v1.2.0) (2026-09-01)
+
+### Features
+
+* **terraform:** Upgrade to latest available version of Terraform provider ([ad821e4](https://gitlab.com/terraform-child-modules-48151/terraform-twingate-service_account/commit/ad821e41597ccf34433fe89b8d374346d9d673bb))
+
 ## [1.1.0](https://gitlab.com/terraform-child-modules-48151/terraform-twingate-service_account/compare/v1.0.0...v1.1.0) (2026-02-24)
 
 ### Features
